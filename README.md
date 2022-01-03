@@ -34,9 +34,9 @@ __________________________________________
   <img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' />
   <img src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white' />
   <br>
-  <a src='https://instagram.com/pc_pixelart'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /></a>
+  <a href='https://instagram.com/pc_pixelart'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /></a>
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
-  <img src='https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white' />
+  <a href='https://www.deviantart.com/pcpixelart'><img src='https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white' /></a>
   <br>
   <h5 align='center'>My Specs</h5>
   <img src='https://img.shields.io/badge/acer%20%20Nitro%205-83B81A?style=for-the-badge&logo=acer&logoColor=white' />
