@@ -42,7 +42,7 @@ __________________________________________
   <img src='https://img.shields.io/badge/acer%20%20Nitro%205-83B81A?style=for-the-badge&logo=acer&logoColor=white' />
   <img src='https://img.shields.io/badge/AMD%20Ryzen_7_4800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white' />
   <img src='https://img.shields.io/badge/NVIDIA-GTX1650Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white' />
-  <img src='https://img.shields.io/badge/8GB%20ram-76B900?style=for-the-badge&logo=fedora&logoColor=white' />
+  <img src='https://img.shields.io/badge/16GB%20ram-76B900?style=for-the-badge&logo=fedora&logoColor=white' />
 </div>
 
 
