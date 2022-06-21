@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Paulo César</h1>
 
 - 🔭 I’m currently working on **[Virtualter-Web](https://github.com/Msajt/Virtualter-Domiciliar)**
-- 🌱 I’m currently learning **NodeJS**
 
 <div align='center'>
   <a href='https://github.com/msajt'>
