@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Paulo César</h1>
 
-- 🔭 I’m currently working on **[Virtualter-Web](https://github.com/Msajt/Virtualter-Domiciliar)**
+- 🔭 I’m currently working on **coding**
 
 <div align='center'>
   <a href='https://github.com/msajt'>
@@ -32,8 +32,8 @@ __________________________________________
   <img src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white' />
   <br>
   <a href='https://instagram.com/pc_pixelart'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /></a>
-  <a href='https://www.linkedin.com/in/paulo-santos-28581a220'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
-  <a href='https://www.deviantart.com/pcpixelart'><img src='https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white' /></a>
+  <a href='https://www.linkedin.com/in/pc-dev'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
+  <a href='https://www.artstation.com/pc_pixelart'><img src='https://a11ybadges.com/badge?logo=artstation' /></a>
   <br>
   <h5 align='center'>My Specs</h5>
   <img src='https://img.shields.io/badge/acer%20%20Nitro%205-83B81A?style=for-the-badge&logo=acer&logoColor=white' />
